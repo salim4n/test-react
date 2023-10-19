@@ -1,0 +1,3 @@
+ "name": "Marill",
+ "pokedexIdd": 183
+ "type": "eau"
